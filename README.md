@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
