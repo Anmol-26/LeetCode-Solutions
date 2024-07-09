@@ -3,7 +3,7 @@ public:
     char nextGreatestLetter(vector<char>& letters, char target) {
         char ans=letters[0];
         for(char i: letters){
-            if(int(i)>int(target)){
+            if(i>target){
                 ans=i;
                 break;
             }
