@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -88,5 +89,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
