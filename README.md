@@ -44,6 +44,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -93,6 +95,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
