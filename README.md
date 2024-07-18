@@ -48,6 +48,7 @@
 | [0053-maximum-subarray](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -64,6 +65,7 @@
 | [0011-container-with-most-water](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
