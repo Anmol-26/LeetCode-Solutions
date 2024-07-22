@@ -55,12 +55,14 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0075-sort-colors](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
