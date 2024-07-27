@@ -52,6 +52,7 @@
 | [0088-merge-sorted-array](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@
 | [0075-sort-colors](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -111,6 +114,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +139,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
