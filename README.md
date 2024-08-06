@@ -59,6 +59,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [3519-find-the-number-of-winning-players](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3519-find-the-number-of-winning-players) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [3519-find-the-number-of-winning-players](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3519-find-the-number-of-winning-players) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3519-find-the-number-of-winning-players) |
 <!---LeetCode Topics End-->
