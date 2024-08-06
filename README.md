@@ -60,6 +60,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3519-find-the-number-of-winning-players](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3519-find-the-number-of-winning-players) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0088-merge-sorted-array](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0048-rotate-image](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Dynamic Programming
 |  |
 | ------- |
