@@ -160,4 +160,8 @@
 |  |
 | ------- |
 | [3519-find-the-number-of-winning-players](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/3519-find-the-number-of-winning-players) |
+## Database
+|  |
+| ------- |
+| [1317-monthly-transactions-i](https://github.com/Anmol-26/LeetCode-Solutions/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
